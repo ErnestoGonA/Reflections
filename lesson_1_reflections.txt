@@ -1,0 +1,42 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It will show just the lines that have change between the two versions of the file.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    You can return to an old version of the code when you need to know about how a 
+    file used to look in the past.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    The pros are that you can choose what to commit and when, keeping the track only of
+    the significant changes, avoiding that the list of commits gets to crambled and easy
+    to read.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Sometimes we need to modify multiple files to make a change in one version of a project,
+    and it's usefull to make one single commit to save the version instead of make multiple
+    commits, in that way you will have better understanding of the changes between versions.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    You can use the git log to see all the commits that you have done and then, when you find
+    the commit with the message that you are looking for, you can copy the id of the previous
+    commit and the one you want to check, and use them with the command git diff, to see the
+    changes in all the files between those two commits.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    I could make the changes that I want, and if something goes wrong, I could check the previous
+    version of the code to find the mistake or mistakes that were made.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I would like to try how this makes easy to manage the versions of my projects.
