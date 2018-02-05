@@ -33,4 +33,9 @@ How do the diagrams help you visualize the branch structure?
     Also you can see the reachability of the commits of the branches by identifing what is the parent of 
     each commit.
 
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
 
+    The result is a commit with all the changes that happen in both branches. We represent it joining 2
+    branches because that what we do, we create one branch from 2, in that way we can delete the branch
+    that we merged.
