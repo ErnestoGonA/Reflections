@@ -39,3 +39,10 @@ the diagram the way we do?
     The result is a commit with all the changes that happen in both branches. We represent it joining 2
     branches because that what we do, we create one branch from 2, in that way we can delete the branch
     that we merged.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges
+manually?
+
+    The pros is that is more easy to put all the changes made by you or anothers in one version, when you need
+    to make it manually you can resolve the conflicts and decide what version of the code is the one that
+    should be in the final revision of the code.
