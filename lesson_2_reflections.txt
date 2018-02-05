@@ -26,15 +26,3 @@ organized? How would branches help?
     With branches you can make a "copy" of the repository where you can make all the changes without 
     messing the master branch.
 
-How do the diagrams help you visualize the branch structure?
-
-    You can find what changes are made in all the branches and see where a new branch was created to see
-    what features will contain.
-    Also you can see the reachability of the commits of the branches by identifing what is the parent of 
-    each commit.
-
-What is the result of merging two branches together? Why do we represent it in
-the diagram the way we do?
-
-What are the pros and cons of Git's automatic merging vs. always doing merges
-manually?
