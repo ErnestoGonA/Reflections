@@ -20,3 +20,8 @@ of another?
   A fork is a copy of a repositoro from GitHub in your own account of GitHub. Its usefull when 
   you don't have permision of push to one public repository but you want to make changes and 
   share them.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+  You can know what changes have happen in the remote branch so when we push our changes it won't
+  cause any conflict in the code.
