@@ -25,3 +25,8 @@ What is the benefit of having a copy of the last known state of the remote store
 
   You can know what changes have happen in the remote branch so when we push our changes it won't
   cause any conflict in the code.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+  Probably using google drive or something like that, and have a lot of comunication wit my team.
+  I dont think it would be easy, it would be so hard.
