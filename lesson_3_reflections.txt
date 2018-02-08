@@ -7,4 +7,16 @@ stay up-to-date with your remote repository?
 
   Because sometimes to launch a new characteristic or a version of the app, it takes more
   than one commit, and only the person will know when you want to share the changes of the
-  project.
+  project
+
+Describe the differences between forks, clones, and branches. When would you use one instead 
+of another?
+
+  A branch is a diferent path that follows the repository, its convenient to use branches when
+  you wanto to make modifications of the code without messing the production code.
+  A clone is a copy of a repository from GitHub located in your computer. It could be used when
+  you need to work on a project and make modifications of the code locally and publish it when
+  you have done the work.
+  A fork is a copy of a repositoro from GitHub in your own account of GitHub. Its usefull when 
+  you don't have permision of push to one public repository but you want to make changes and 
+  share them.
