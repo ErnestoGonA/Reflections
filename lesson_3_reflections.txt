@@ -30,3 +30,9 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
   Probably using google drive or something like that, and have a lot of comunication wit my team.
   I dont think it would be easy, it would be so hard.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits 
+does each approach have?
+
+  When I want to try a new characteristic and then push it with a pull request, so that other person can 
+  look at my code and decide if it can be part of the master branch or if I have to check some details.
